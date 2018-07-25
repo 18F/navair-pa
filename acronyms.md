@@ -1,7 +1,7 @@
-AAP Advance Analytics Package
+**AAP** Advance Analytics Package
 
-FRC Fleet Readiness Centers
+**FRC** Fleet Readiness Centers
 
-NAVAIR Naval Air Systems Command
+**NAVAIR** Naval Air Systems Command
 
-NMCI Navy Marine Corps Intranet 
+**NMCI** Navy Marine Corps Intranet 
