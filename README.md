@@ -1,7 +1,7 @@
 # U.S. Navy Naval Air Systems Command (NAVAIR) Path Analysis 
 
 ## Welcome!
-This repository contains documentation describing the Navy Naval Air Systems Command (NAVAIR) Path Analysis engagement. It is intended to be a place where project team members, stakeholders, and other interested parties can keep track of goals and resources as we work together. 
+This repository contains documentation describing the Navy Naval Air Systems Command (NAVAIR) Path Analysis engagement. It is intended to be a place where project team members, stakeholders, and other interested parties can keep track of goals, context, and resources as we work together. 
 
 ## History
 
