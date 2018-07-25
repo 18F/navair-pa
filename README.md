@@ -64,7 +64,7 @@ We will assist NAVAIR with modern data practices aimed at a comprehensive unders
 
 ## Planned deliverables
 
- - Problem definition and potential partner impact: the explicit objectives to achieve the NAVAIR, based upon an investigation, and the level of impact felt by the organization or its user base
+ - Problem definition and potential partner impact: the explicit objectives to achieve NAVAIR goals, based upon an investigation, and the level of impact felt by the organization or its user base
  - Strategy, recommendations, and concept: a stated approach to achieve an outcome based on the organization’s unique position, including but not limited to its mission, context, resources, and risks
  - When appropriate, limited prototypes, wireframes, data, or other documents we will generate
 
