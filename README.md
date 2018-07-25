@@ -3,20 +3,19 @@
 ## Welcome!
 This repository contains documentation describing the Navy Naval Air Systems Command (NAVAIR) Path Analysis engagement. It is intended to be a place where project team members, stakeholders, and other interested parties can keep track of goals and resources as we work together. 
 
-## Tools
+## Tools and resources
 
  - [Google Drive folder](https://drive.google.com/drive/u/0/folders/1Zi8TiYQBV21oXyCYRQf2eXoKE0mXHEqQ) 
  - [Project board (ZenHub)](https://github.com/18F/navair-pa#boards?repos=142185500)
  - [18F Slack channel: #navair-pa](https://gsa-tts.slack.com/messages/CBJLRSU5D)
  - [Partner Slack channel: #navair-pa-partner](https://gsa-tts.slack.com/messages/CBVJRR0SV)
- 
+ - [Team notes](https://docs.google.com/document/d/1kD6INqY3GVkC2Utkv5aUPA1c4mZDthgUKZBb7q7M3HU/edit)
+ - [Acronyms glossary](https://github.com/18F/navair-pa/blob/master/acronyms.md)
  
  ## Reference
  
  - [Qualification documentation](https://docs.google.com/document/d/1ZBT-J5e1tbZ9-ZBSqJYIqvu0Uz_dP6E8kp4M4v6n_qU/edit)
  - [IAA and SOW folder](https://drive.google.com/drive/u/0/folders/1QakA3BoVRRNekefraUTOOtTDqexXg4aN)
- - [Team notes](https://docs.google.com/document/d/1kD6INqY3GVkC2Utkv5aUPA1c4mZDthgUKZBb7q7M3HU/edit)
- - [Acronyms glossary](https://github.com/18F/navair-pa/blob/master/acronyms.md)
 
 
 ## Tock and staffing
