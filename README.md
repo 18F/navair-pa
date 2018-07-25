@@ -24,6 +24,19 @@ This repository contains documentation describing the Navy Naval Air Systems Com
 - [18F staffing issue](https://github.com/18F/staffing-and-resources/issues/501)
 
 
+## Project team and roles
+
+
+
+
+### 18F
+
+**T.C. Baxter (Engineering)** Leads data analysis as front and backend developer. Assesses data and data schema to frame possible improvements.
+
+**Andrew Suprenant (Product Manager and Lead)** — Articulate vision for engagement in collaboration with the product owner. Regularly select work of highest value to be prioritized in sprints. Cultivate alignment of product owner, development team, and key stakeholders. Identify and work to resolve obstacles. Highlight and work to mitigate risk. Ensure progress moves forward and that the 18F team delivers. 
+
+**Kathryn Connolly (Account Manager)** — Provide support to project team and serves as liaison between NAVAIR and 18F. 
+
 ## Risks and mitigations
 
 **Risk:** If it takes time to identify/schedule research participants, this could reduce our potential impact.  
