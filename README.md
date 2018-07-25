@@ -3,6 +3,33 @@
 ## Welcome!
 This repository contains documentation describing the Navy Naval Air Systems Command (NAVAIR) Path Analysis engagement. It is intended to be a place where project team members, stakeholders, and other interested parties can keep track of goals and resources as we work together. 
 
+
+
+
+## Project team and roles
+
+
+
+
+### 18F
+
+**T.C. Baxter (Engineering)** Leads data analysis as front and backend developer. Assesses data and data schema to frame possible improvements.
+
+**Andrew Suprenant (Product Manager and Lead)** — Articulates vision for engagement in collaboration with the product owner. Regularly selects work of highest value to be prioritized in sprints. Cultivate alignment of product owner, development team, and key stakeholders. Identifies and works to resolve obstacles. Highlights and works to mitigate risk. Ensures progress moves forward and that the 18F team delivers. 
+
+**Kathryn Connolly (Account Manager)** — Provide support to project team and serves as liaison between NAVAIR and 18F. 
+
+## Risks and mitigations
+
+**Risk:** If it takes time to identify/schedule research participants, this could reduce our potential impact.  
+**Mitigation:** We press hard for contacts/interviews but move forward with other work in the meantime.
+
+**Risk:** Time is, by design, short. This engagement can go many ways as we define our eventual scope.  
+**Mitigation:** Team to commit to a path early on and dig in. Partner accepts that the work done will not be a comprehensive review of everything that is possible.
+
+**Risk:** Important concerns go unaddressed until they swell into larger problems.  
+**Mitigation:** Surface obstacles and anxieties early so we can address them as they arise.
+
 ## Tools and resources
 
  - [Google Drive folder](https://drive.google.com/drive/u/0/folders/1Zi8TiYQBV21oXyCYRQf2eXoKE0mXHEqQ) 
@@ -22,31 +49,6 @@ This repository contains documentation describing the Navy Naval Air Systems Com
 
 - The 18F Tock code for billing time to this project is NAVAIR Path Analysis #903
 - [18F staffing issue](https://github.com/18F/staffing-and-resources/issues/501)
-
-
-## Project team and roles
-
-
-
-
-### 18F
-
-**T.C. Baxter (Engineering)** Leads data analysis as front and backend developer. Assesses data and data schema to frame possible improvements.
-
-**Andrew Suprenant (Product Manager and Lead)** — Articulate vision for engagement in collaboration with the product owner. Regularly select work of highest value to be prioritized in sprints. Cultivate alignment of product owner, development team, and key stakeholders. Identify and work to resolve obstacles. Highlight and work to mitigate risk. Ensure progress moves forward and that the 18F team delivers. 
-
-**Kathryn Connolly (Account Manager)** — Provide support to project team and serves as liaison between NAVAIR and 18F. 
-
-## Risks and mitigations
-
-**Risk:** If it takes time to identify/schedule research participants, this could reduce our potential impact.  
-**Mitigation:** We press hard for contacts/interviews but move forward with other work in the meantime.
-
-**Risk:** Time is, by design, short. This engagement can go many ways as we define our eventual scope.  
-**Mitigation:** Team to commit to a path early on and dig in. Partner accepts that the work done will not be a comprehensive review of everything that is possible.
-
-**Risk:** Important concerns go unaddressed until they swell into larger problems.  
-**Mitigation:** Surface obstacles and anxieties early so we can address them as they arise.
 
 
 
