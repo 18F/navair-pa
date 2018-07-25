@@ -39,16 +39,30 @@ NAVAIR is organized into eight "competencies" or communities of practice includi
 
 [Organizational structure](http://www.navair.navy.mil/index.cfm?fuseaction=home.download&key=6F9E04A2-4F04-4FDC-8455-74114378BC50)
 
-### Engagement
+## Users and stakeholders
+
+ - HR administrators and specialists managing hiring offers
+ - Program managers and analysts making hiring requests and managing team size and number necessary for requirements
+ - Senior stakeholders overseeing program portfolios
+ - NAVAIR data analysts
+ - Others TBD (possibly recruiters)
+
+
+## Engagement
 
 NAVAIR HR requires the improvement of both the quality of the data they collect and manage and the use of predictive analytics. Aviation fleet readiness remains challenged with data collection and management resulting in potential reactive postures.  Organized and structured data with appropriate staffing will enhance required predictability.  NAVAIR HR desires a predictive model based on the data available to them allowing them to identify trends in the past and use the data to plan for the future.
 
-## Planned deliverables
+## Our approach 
+We will begin by experimenting with predictive analytics in the Fleet Readiness Center in Jacksonville, Florida. We then plan to apply learnings and innovatoins to all major Fleet Readiness Centers (three main centers exist).
 
-We will work collaboratively to review available data to determine the current state of the information, explore the feasibility of modeling it, and develop a preliminary plan/recommendation for how to operationalize/build it out in order to meet NAVAIR’s goals.
+In order to do this, we will work collaboratively to review available data to determine the current state of the information, explore the feasibility of modeling it, and develop a preliminary plan/recommendation for how to operationalize/build it out in order to meet NAVAIR’s goals.
 
 We will assist NAVAIR with modern data practices aimed at a comprehensive understanding of their HR data elements. This will expand their ability to model data and thus, predict attrition and hiring needs and retain necessary skill sets and forecast more efficiently. We will use the available data to determine the current state of the information, explore the feasibility of modeling it, and put a preliminary plan/recommendation for how to operationalize/build it out to help NAVAIR determine the best path forward. 
- - Problem definition and potential partner impact: the explicit objectives to achieve the organization’s goal(s), based upon an investigation, and the level of impact felt by the NAVAIR or their user base
+
+
+## Planned deliverables
+
+ - Problem definition and potential partner impact: the explicit objectives to achieve the NAVAIR, based upon an investigation, and the level of impact felt by the organization or its user base
  - Strategy, recommendations, and concept: a stated approach to achieve an outcome based on the organization’s unique position, including but not limited to its mission, context, resources, and risks
  - When appropriate, limited prototypes, wireframes, data, or other documents we will generate
 
@@ -60,7 +74,7 @@ We will assist NAVAIR with modern data practices aimed at a comprehensive unders
 
 **Ron Spalding** (Integrated business ops, PO candidate)
 
-**Kevin Smith** (Ops officer, NAVAIR digital, PO candidate)
+**Kevin Smith** (Lead, Business Intelligence and Data Analytics Division, PO candidate)
 
 **Todd Balazs** (Digital Integration Officer)
 
