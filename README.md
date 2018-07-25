@@ -3,12 +3,64 @@
 ## Welcome!
 This repository contains documentation describing the Navy Naval Air Systems Command (NAVAIR) Path Analysis engagement. It is intended to be a place where project team members, stakeholders, and other interested parties can keep track of goals and resources as we work together. 
 
+## History
+
+### NAVAIR
+
+#### Overview
+
+Established in 1966 as the successor to the Navy’s Bureau of Naval Weapons, the Naval Air Systems Command (NAVAIR) is headquartered in Patuxent River, Md., with military and civilian personnel stationed at eight locations across the continental United States and one site overseas.
+
+#### Vision
+
+**Sailors and Marines Armed with Confidence**
+Because we develop, deliver, and sustain aircraft, weapons, and systems – on time, on cost, with proven capability and reliability – so they succeed in every mission and return safely home.
+
+#### Mission
+
+NAVAIR's mission is to provide full life-cycle support of naval aviation aircraft, weapons and systems operated by Sailors and Marines. This support includes research, design, development and systems engineering, acquisition, test and evaluation, training facilities and equipment, repair and modification, and in-service engineering and logistics support.
+
+
+#### Focus areas
+
+**Increase Speed to the Fleet** through program of record planning and execution, and rapid response to urgent warfighter needs
+ 
+**Consistently Deliver Integrated & Interoperable Warfighting Capabilities** (platforms, sensors and weapons operating seamlessly in a systems of systems environment) that produce an immediate and sustainable increase in warfighting effectiveness
+ 
+**Improve Affordability** by reducing operating and sustainment costs for fielded systems and implementing life-cycle cost reduction initiatives as part of new systems development
+
+#### Competencies and Program Executive Offices
+
+NAVAIR is organized into eight "competencies" or communities of practice including: program management, contracts, research and engineering, test and evaluation, logistics and industrial operations, corporate operations, comptroller and counsel.  NAVAIR provides support (people, processes, tools, training, mission facilities, and core technologies ) to Naval Aviation Program Executive Officers (PEOs) and their assigned program managers, who are responsible for meeting the cost, schedule, and performance requirements of their assigned programs.
+
+[Organizational structure](http://www.navair.navy.mil/index.cfm?fuseaction=home.download&key=6F9E04A2-4F04-4FDC-8455-74114378BC50)
+
+(adapted from http://www.navair.navy.mil/index.cfm?fuseaction=home.display&key=92CEA25F-AD6C-4EA4-9953-CCCD3C4F9581)
+
+### Engagement
+
+NAVAIR HR requires the improvement of both the quality of the data they collect and manage and the use of predictive analytics. Aviation fleet readiness remains challenged with data collection and management resulting in potential reactive postures.  Organized and structured data with appropriate staffing will enhance required predictability.  NAVAIR HR desires a predictive model based on the data available to them allowing them to identify trends in the past and use the data to plan for the future.
+
+## Planned deliverables
+
+We will work collaboratively to review available data to determine the current state of the information, explore the feasibility of modeling it, and develop a preliminary plan/recommendation for how to operationalize/build it out in order to meet NAVAIR’s goals.
+
+We will assist NAVAIR with modern data practices aimed at a comprehensive understanding of their HR data elements. This will expand their ability to model data and thus, predict attrition and hiring needs and retain necessary skill sets and forecast more efficiently. We will use the available data to determine the current state of the information, explore the feasibility of modeling it, and put a preliminary plan/recommendation for how to operationalize/build it out to help NAVAIR determine the best path forward. 
+ - Problem definition and potential partner impact: the explicit objectives to achieve the organization’s goal(s), based upon an investigation, and the level of impact felt by the NAVAIR or their user base
+ - Strategy, recommendations, and concept: a stated approach to achieve an outcome based on the organization’s unique position, including but not limited to its mission, context, resources, and risks
+ - When appropriate, limited prototypes, wireframes, data, or other documents we will generate
 
 
 
 ## Project team and roles
 
+### NAVAIR
 
+**Ron Spalding** (Integrated business ops, PO candidate)
+
+**Kevin Smith** (Ops officer, NAVAIR digital, PO candidate)
+
+**Todd Balazs** (Digital Integration Officer)
 
 
 ### 18F
