@@ -39,6 +39,10 @@ NAVAIR is organized into eight "competencies" or communities of practice includi
 
 [Organizational structure](http://www.navair.navy.mil/index.cfm?fuseaction=home.download&key=6F9E04A2-4F04-4FDC-8455-74114378BC50)
 
+### Engagement
+
+NAVAIR HR requires the improvement of both the quality of the data they collect and manage and the use of predictive analytics. Aviation fleet readiness remains challenged with data collection and management resulting in potential reactive postures.  Organized and structured data with appropriate staffing will enhance required predictability.  NAVAIR HR desires a predictive model based on the data available to them allowing them to identify trends in the past and use the data to plan for the future.
+
 ## Users and stakeholders
 
  - HR administrators and specialists managing hiring offers
@@ -48,9 +52,7 @@ NAVAIR is organized into eight "competencies" or communities of practice includi
  - Others TBD (possibly recruiters)
 
 
-## Engagement
 
-NAVAIR HR requires the improvement of both the quality of the data they collect and manage and the use of predictive analytics. Aviation fleet readiness remains challenged with data collection and management resulting in potential reactive postures.  Organized and structured data with appropriate staffing will enhance required predictability.  NAVAIR HR desires a predictive model based on the data available to them allowing them to identify trends in the past and use the data to plan for the future.
 
 ## Our approach 
 We will begin by experimenting with predictive analytics in the Fleet Readiness Center in Jacksonville, Florida. We then plan to apply learnings and innovatoins to all major Fleet Readiness Centers (three main centers exist).
