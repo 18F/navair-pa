@@ -1,4 +1,7 @@
-# Glossary
+# Acronyms and Definitions
+
+This is a guide of commonly used acronyms that you may encounter in this engagement.
+
 
 **AAP** Advance Analytics Package
 
