@@ -14,7 +14,8 @@ Established in 1966 as the successor to the Navy’s Bureau of Naval Weapons, th
 #### Vision
 
 **Sailors and Marines Armed with Confidence**
-Because we develop, deliver, and sustain aircraft, weapons, and systems – on time, on cost, with proven capability and reliability – so they succeed in every mission and return safely home.
+
+NAVAIR develops, delivers, and sustains aircraft, weapons, and systems – on time, on cost, with proven capability and reliability – so they succeed in every mission and return safely home.
 
 #### Mission
 
@@ -29,13 +30,14 @@ NAVAIR's mission is to provide full life-cycle support of naval aviation aircraf
  
 **Improve Affordability** by reducing operating and sustainment costs for fielded systems and implementing life-cycle cost reduction initiatives as part of new systems development
 
+
 #### Competencies and Program Executive Offices
 
 NAVAIR is organized into eight "competencies" or communities of practice including: program management, contracts, research and engineering, test and evaluation, logistics and industrial operations, corporate operations, comptroller and counsel.  NAVAIR provides support (people, processes, tools, training, mission facilities, and core technologies ) to Naval Aviation Program Executive Officers (PEOs) and their assigned program managers, who are responsible for meeting the cost, schedule, and performance requirements of their assigned programs.
 
-[Organizational structure](http://www.navair.navy.mil/index.cfm?fuseaction=home.download&key=6F9E04A2-4F04-4FDC-8455-74114378BC50)
-
 (adapted from http://www.navair.navy.mil/index.cfm?fuseaction=home.display&key=92CEA25F-AD6C-4EA4-9953-CCCD3C4F9581)
+
+[Organizational structure](http://www.navair.navy.mil/index.cfm?fuseaction=home.download&key=6F9E04A2-4F04-4FDC-8455-74114378BC50)
 
 ### Engagement
 
