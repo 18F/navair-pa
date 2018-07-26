@@ -74,7 +74,7 @@ We will assist NAVAIR with modern data practices aimed at a comprehensive unders
 
 ### NAVAIR
 
-**Ron Spalding** (Integrated business ops, PO candidate)
+**Ron Spalding** (Digital Integration Operations Officer, PO candidate)
 
 **Kevin Smith** (Lead, Business Intelligence and Data Analytics Division, PO candidate)
 
