@@ -3,6 +3,7 @@
 This is a guide of commonly used acronyms that you may encounter in this engagement.
 
 
+
 **AAP** Advance Analytics Package
 
 **ASW** Anti-submarine warfare
@@ -10,6 +11,10 @@ This is a guide of commonly used acronyms that you may encounter in this engagem
 **CMC** Commandant of the Marine Corps - Highest ranking officer in the United States Marine Corps
 
 **CNO** Chief of Naval Operations - Highest ranking officer in the United States Navy
+
+**CWA** Civilian Workflow Automation tool (requests for personnel actions)
+
+**DCPDS** Defense Civilian Personnel Data System
 
 **FRC** Fleet Readiness Centers
 
