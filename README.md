@@ -91,6 +91,9 @@ We will assist NAVAIR with modern data practices aimed at a comprehensive unders
 
 ## Risks and mitigations
 
+**Risk:** We do not have designated product owners available to make decisions, support this work, provide resources, and work to unblock issues in a timely manner.  
+**Mitigation:** Identify and select primary and secondary points of contact who can provide this support, with the secondary contact as a fallback mechanism when the primary is unavailable.
+
 **Risk:** If it takes time to identify/schedule research participants, this could reduce our potential impact.  
 **Mitigation:** We press hard for contacts/interviews but move forward with other work in the meantime.
 
