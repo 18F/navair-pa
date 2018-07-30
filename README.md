@@ -97,6 +97,9 @@ We will assist NAVAIR with modern data practices aimed at a comprehensive unders
 **Risk:** Time is, by design, short. This engagement can go many ways as we define our eventual scope.  
 **Mitigation:** Team to commit to a path early on and dig in. Partner accepts that the work done will not be a comprehensive review of everything that is possible.
 
+**Risk:** We are unable to access data and systems that will be critical to understand the current state at NAVAIR HR, informing this work.
+**Mitigation:** We press hard for access to data and systems we need and call out lack of access as a critical blocking issue. At the same time, we move forward to make the most use of time as possible.
+
 **Risk:** Important concerns go unaddressed until they swell into larger problems.  
 **Mitigation:** Surface obstacles and anxieties early so we can address them as they arise.
 
