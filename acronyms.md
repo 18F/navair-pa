@@ -16,7 +16,7 @@ This is a guide of commonly used acronyms that you may encounter in this engagem
 
 **CWA** Civilian Workflow Automation tool (requests for personnel actions)
 
-**DCPDS** Defense Civilian Personnel Data System'
+**DCPDS** Defense Civilian Personnel Data System
 
 **DIFMS** Defense Industrial Financial Management System
 
