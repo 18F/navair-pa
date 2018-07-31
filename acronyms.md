@@ -20,7 +20,7 @@ This is a guide of commonly used acronyms that you may encounter in this engagem
 
 **DIFMS** Defense Industrial Financial Management System
 
-**EPP** Enterprise Project Planner -- Provides a "capacity view' of the system, including production planning and execution data for analysis
+**EPP** Enterprise Project Planner -- Provides a "capacity view" of the system, including production planning and execution data for analysis
 
 **FRC** Fleet Readiness Centers
 
