@@ -4,7 +4,7 @@ This is a guide of commonly used acronyms that you may encounter in this engagem
 
 **AAP** Advance Analytics Package
 
-**ADCS** Automated Data Collection System -- used in repair process to collect data on aircraft, engines and parts
+**ADCS** Automated Data Collection System -- Used in repair process to collect data on aircraft, engines and parts
 
 **ASW** Anti-submarine warfare
 
@@ -12,7 +12,7 @@ This is a guide of commonly used acronyms that you may encounter in this engagem
 
 **CNO** Chief of Naval Operations - Highest ranking officer in the United States Navy
 
-**CRS** Corporate Reporting System - data warehouse for NDMS and DIFMS
+**CRS** Corporate Reporting System - Data warehouse for NDMS and DIFMS
 
 **CWA** Civilian Workflow Automation tool (requests for personnel actions)
 
@@ -24,7 +24,7 @@ This is a guide of commonly used acronyms that you may encounter in this engagem
 
 **FRC** Fleet Readiness Centers
 
-**MRO** Maintenance, Repair, and Overhaul -- often referred to as MRO Process
+**MRO** Maintenance, Repair, and Overhaul -- Often referred to as MRO Process
 
 **NAVAIR** Naval Air Systems Command
 
