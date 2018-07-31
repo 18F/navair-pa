@@ -26,6 +26,8 @@ This is a guide of commonly used acronyms that you may encounter in this engagem
 
 **MRO** Maintenance, Repair, and Overhaul -- Often referred to as MRO Process
 
+**NAS Pax River** Naval Air Station Patuxent River -- In St. Mary’s County, Maryland, is home to NAVAIR Headquarters, affiliated Program Executive Officers, and the Naval Air Warfare Center Aircraft Division
+
 **NAVAIR** Naval Air Systems Command
 
 **NDMS** NAVAIR Depot Maintenance System
