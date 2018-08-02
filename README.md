@@ -95,6 +95,7 @@ We will assist NAVAIR with modern data practices aimed at a comprehensive unders
 **Mitigation:** Identify and select primary and secondary points of contact who can provide this support quickly throughout the workday during the course of this engagement, with the secondary contact as a fallback mechanism when the primary is unavailable.
 
 **Risk:** We are unable to access data and systems that will be critical to understand the current state at NAVAIR HR, informing this work.
+
 **Mitigation:** We press hard for access to data and systems we need and call out lack of access as a critical blocking issue. At the same time, we move forward to make the most use of time as possible.
 
 **Risk:** Time is, by design, short. This engagement can go many ways as we define our eventual scope.  
