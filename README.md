@@ -91,17 +91,17 @@ We will assist NAVAIR with modern data practices aimed at a comprehensive unders
 
 ## Risks and mitigations
 
-**Risk:** We do not have designated product owners available to make decisions, support this work, provide resources, and work to unblock issues in a timely manner.  
-**Mitigation:** Identify and select primary and secondary points of contact who can provide this support, with the secondary contact as a fallback mechanism when the primary is unavailable.
+**Risk:** We are not able to receive responses, decisions, support, resources, and assistance to unblock issues in a timely manner.  
+**Mitigation:** Identify and select primary and secondary points of contact who can provide this support quickly throughout the workday during the course of this engagement, with the secondary contact as a fallback mechanism when the primary is unavailable.
 
-**Risk:** If it takes time to identify/schedule research participants, this could reduce our potential impact.  
-**Mitigation:** We press hard for contacts/interviews but move forward with other work in the meantime.
+**Risk:** We are unable to access data and systems that will be critical to understand the current state at NAVAIR HR, informing this work.
+**Mitigation:** We press hard for access to data and systems we need and call out lack of access as a critical blocking issue. At the same time, we move forward to make the most use of time as possible.
 
 **Risk:** Time is, by design, short. This engagement can go many ways as we define our eventual scope.  
 **Mitigation:** Team to commit to a path early on and dig in. Partner accepts that the work done will not be a comprehensive review of everything that is possible.
 
-**Risk:** We are unable to access data and systems that will be critical to understand the current state at NAVAIR HR, informing this work.
-**Mitigation:** We press hard for access to data and systems we need and call out lack of access as a critical blocking issue. At the same time, we move forward to make the most use of time as possible.
+**Risk:** If it takes time to identify/schedule research participants, this could reduce our potential impact.  
+**Mitigation:** We press hard for contacts/interviews but move forward with other work in the meantime.
 
 **Risk:** Important concerns go unaddressed until they swell into larger problems.  
 **Mitigation:** Surface obstacles and anxieties early so we can address them as they arise.
