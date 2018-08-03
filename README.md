@@ -43,6 +43,8 @@ NAVAIR is organized into eight "competencies" or communities of practice includi
 
 NAVAIR HR requires the improvement of both the quality of the data they collect and manage and the use of predictive analytics. Aviation fleet readiness remains challenged with data collection and management resulting in potential reactive postures.  Organized and structured data with appropriate staffing will enhance required predictability.  NAVAIR HR desires a predictive model based on the data available to them allowing them to identify trends in the past and use the data to plan for the future.
 
+18F and NAVAIR began this path analysis engagement on July 30th, 2018, with a kickoff workshop at Naval Air Station Patuxent River on August 9th, 2018. This phase of work is expected to conclude no later than September 30th, 2018.
+
 ## Users and stakeholders
 
  - HR administrators and specialists managing hiring offers
@@ -74,9 +76,12 @@ We will assist NAVAIR with modern data practices aimed at a comprehensive unders
 
 ### NAVAIR
 
-**Ron Spalding** (Digital Integration Operations Officer, PO candidate)
+**Ron Spalding** (Digital Integration Operations Officer, PO candidate) - Helps with data across the enterprise and works on data strategy and governance using HR data.
 
-**Kevin Smith** (Lead, Business Intelligence and Data Analytics Division, PO candidate)
+
+**Kevin Smith** (Lead, Business Intelligence and Data Analytics Division, PO candidate) - Has relationship with NAVAIR digital office and is liaison to digital group. Focuses on analysis, people data, and forecasting.
+
+**John Martin** (Manpower Analyst) - Performs data analysis and predictive analysis.
 
 **Todd Balazs** (Digital Integration Officer)
 
@@ -115,10 +120,14 @@ We will assist NAVAIR with modern data practices aimed at a comprehensive unders
  - [Team notes](https://docs.google.com/document/d/1kD6INqY3GVkC2Utkv5aUPA1c4mZDthgUKZBb7q7M3HU/edit)
  - [Acronyms glossary](https://github.com/18F/navair-pa/blob/master/acronyms.md)
  
- ## Reference
+ ## Reference - Engagement
  
  - [Qualification documentation](https://docs.google.com/document/d/1ZBT-J5e1tbZ9-ZBSqJYIqvu0Uz_dP6E8kp4M4v6n_qU/edit)
  - [IAA and SOW folder](https://drive.google.com/drive/u/0/folders/1QakA3BoVRRNekefraUTOOtTDqexXg4aN)
+ 
+ 
+## Reference - NAVAIR
+ - [Primer on Fleet Readiness Centers (FRCs)](http://www.navair.navy.mil/index.cfm?fuseaction=home.display&key=336F87D3-FBB9-4ED5-A2C8-5E1E58EF1FC4)
 
 
 ## Tock and staffing
