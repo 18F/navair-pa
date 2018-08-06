@@ -57,7 +57,7 @@ NAVAIR HR requires the improvement of both the quality of the data they collect 
 
 
 ## Our approach 
-We will begin by experimenting with predictive analytics in the Fleet Readiness Center in Jacksonville, Florida. We then plan to apply learnings and innovatoins to all three major FRCs.
+We will begin by experimenting with predictive analytics in the Fleet Readiness Center in Jacksonville, Florida. We then plan to apply learnings and innovations to all three major FRCs.
 
 For more on our approach, please [visit this page on our approach](https://github.com/18F/navair-pa/blob/master/approach.md).
 
