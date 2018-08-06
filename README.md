@@ -13,8 +13,6 @@ Established in 1966 as the successor to the Navy’s Bureau of Naval Weapons, NA
 
 #### Vision
 
-**Sailors and Marines Armed with Confidence**
-
 NAVAIR develops, delivers, and sustains aircraft, weapons, and systems – on time, on cost, with proven capability and reliability – so they succeed in every mission and return safely home.
 
 #### Mission
@@ -36,8 +34,6 @@ NAVAIR HR requires the improvement of both the quality of the data they collect 
  - Senior stakeholders overseeing program portfolios
  - NAVAIR data analysts
  - Others TBD (possibly recruiters)
-
-
 
 
 ## Our approach 
