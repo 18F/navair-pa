@@ -11,7 +11,7 @@ In order to do this, we will:
 
 ## Areas of focus
 
-The following five sections represent prioritized areas related to AFRISS-TF that we would like to explore as we determine a path to modernize the system to better meet the needs of its users during this engagement and beyond. 
+The following five sections represent prioritized areas related to NAVAIR that we would like to explore as we determine a path to modernize the system to better meet the needs of its users during this engagement and beyond. 
 Given our limited time, we almost certainly will not explore any section comprehensively; rather, we will select from these each week as we prioritize our work relative to our capacity.
  - User research
  - Data analysis
