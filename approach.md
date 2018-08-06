@@ -9,7 +9,7 @@ In order to do this, we will:
 2. Think critically about the focus areas and skillsets NAVAIR seeks to hire and retain
 3. Select a specific data set where we can quickly experiment and learn
 4. Explore the feasibility of modeling it 
-5. If modeling proves to be feasible, develop a preliminary recommendation for how to build it out in order to meet NAVAIR’s goals. If not, recommend other next steps
+5. If modeling proves to be feasible, develop a preliminary recommendation for a path forward to build it out in order to meet NAVAIR’s goals. If not, recommend other next steps
 
 
 ## Areas of focus
