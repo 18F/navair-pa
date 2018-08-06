@@ -19,7 +19,7 @@ NAVAIR develops, delivers, and sustains aircraft, weapons, and systems – on ti
 
 NAVAIR's mission is to provide full life-cycle support of naval aviation aircraft, weapons and systems operated by Sailors and Marines. This support includes research, design, development and systems engineering, acquisition, test and evaluation, training facilities and equipment, repair and modification, and in-service engineering and logistics support.
 
-For more on NAVAIR, visit [this page](https://github.com/18F/navair-pa/blob/master/NAVAIR.md).
+[Visit this page for more on NAVAIR and their work](https://github.com/18F/navair-pa/blob/master/NAVAIR.md).
 
 ### Engagement
 
