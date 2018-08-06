@@ -19,7 +19,7 @@ NAVAIR's mission is to provide full life-cycle support of naval aviation aircraf
 
 ## Engagement
 
-NAVAIR HR would like to improve the quality of the data they collect and manage to inform the use of predictive analytics, allowing them to better identify past trends and better plan for the future.
+NAVAIR HR would like to improve the quality of the data they collect and manage through better data modeling to inform the use of predictive analytics. This will allow them to better identify past trends and better plan for the future, strengthening hiring and retention forecasting to better serve Navy and Marine fleets.
 
 18F and NAVAIR began this path analysis engagement on July 30th, 2018, with a kickoff workshop at Naval Air Station Patuxent River on August 9th, 2018. This phase of work is expected to conclude no later than September 30th, 2018.
 
