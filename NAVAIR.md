@@ -1,17 +1,6 @@
 # About NAVAIR
 
-
-"Sailors and Marines Armed with Confidence"
-
 NAVAIR develops, delivers, and sustains aircraft, weapons, and systems — on time, on cost, with proven capability and reliability — so they succeed in every mission and return safely home.
-
-Established in 1966 as the successor to the Navy’s Bureau of Naval Weapons, the Naval Air Systems Command (NAVAIR) is headquartered in Naval Air Station Patuxent River, Maryland, with military and civilian personnel stationed at eight locations across the continental United States and one site overseas.
-
-
-## Mission
-
-NAVAIR's mission is to provide full life-cycle support of naval aviation aircraft, weapons and systems operated by Sailors and Marines. This support includes research, design, development and systems engineering; acquisition; test and evaluation; training facilities and equipment; repair and modification; and in-service engineering and logistics support.
-
 
 ## Focus areas
 
