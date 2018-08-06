@@ -27,6 +27,17 @@ NAVAIR's affiliated PEOs are:
 NAVAIR is the principal provider for the Naval Aviation Enterprise (NAE), while contributing to every Warfare enterprise in the interest of national security. We embrace the privilege of our responsibility to the Sailor and Marine in partnership with industry, all Naval Aviation stakeholders, and our fellow Systems Commands.
 
 
+## Fleet Readiness Centers (FRCs)
+
+NAVAIR's FRCs produce quality airframes, engines, components and support equipment, and provide service that meet the Naval Aviation Enterprise's aircraft ready-for-tasking goals with improved effectiveness and efficiency.
+
+The major FRCs are FRC East (MC Aircraft), FRC SE (Jacksonville), and FRC SW (San Diego). FRCs are supported by 16,000 military, civilian, and contractor aviation maintenance professionals.
+
+
+## Fleets 
+
+NAVAIR has 4,000 aircraft of over 100 different types in inventory. Fleets range from 2-200 in size with different vendors having supplied these aircraft.
+
 
 ## Reference
  - [Background presentation on NAVAIR](http://www.navair.navy.mil/index.cfm?fuseaction=home.download&key=4A43D6C6-444A-4C9F-8AF3-29089FF94C43)
