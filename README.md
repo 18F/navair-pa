@@ -21,23 +21,7 @@ NAVAIR develops, delivers, and sustains aircraft, weapons, and systems – on ti
 
 NAVAIR's mission is to provide full life-cycle support of naval aviation aircraft, weapons and systems operated by Sailors and Marines. This support includes research, design, development and systems engineering, acquisition, test and evaluation, training facilities and equipment, repair and modification, and in-service engineering and logistics support.
 
-
-#### Focus areas
-
-**Increase Speed to the Fleet** through program of record planning and execution, and rapid response to urgent warfighter needs
- 
-**Consistently Deliver Integrated & Interoperable Warfighting Capabilities** (platforms, sensors and weapons operating seamlessly in a systems of systems environment) that produce an immediate and sustainable increase in warfighting effectiveness
- 
-**Improve Affordability** by reducing operating and sustainment costs for fielded systems and implementing life-cycle cost reduction initiatives as part of new systems development
-
-
-#### Competencies and Program Executive Offices
-
-NAVAIR is organized into eight "competencies" or communities of practice including: program management, contracts, research and engineering, test and evaluation, logistics and industrial operations, corporate operations, comptroller and counsel.  NAVAIR provides support (people, processes, tools, training, mission facilities, and core technologies ) to Naval Aviation Program Executive Officers (PEOs) and their assigned program managers, who are responsible for meeting the cost, schedule, and performance requirements of their assigned programs.
-
-(adapted from http://www.navair.navy.mil/index.cfm?fuseaction=home.display&key=92CEA25F-AD6C-4EA4-9953-CCCD3C4F9581)
-
-[Organizational structure](http://www.navair.navy.mil/index.cfm?fuseaction=home.download&key=6F9E04A2-4F04-4FDC-8455-74114378BC50)
+For more on NAVAIR, visit [this page].
 
 ### Engagement
 
@@ -125,9 +109,6 @@ We will assist NAVAIR with modern data practices aimed at a comprehensive unders
  - [Qualification documentation](https://docs.google.com/document/d/1ZBT-J5e1tbZ9-ZBSqJYIqvu0Uz_dP6E8kp4M4v6n_qU/edit)
  - [IAA and SOW folder](https://drive.google.com/drive/u/0/folders/1QakA3BoVRRNekefraUTOOtTDqexXg4aN)
  
- 
-## Reference - NAVAIR
- - [Primer on Fleet Readiness Centers (FRCs)](http://www.navair.navy.mil/index.cfm?fuseaction=home.display&key=336F87D3-FBB9-4ED5-A2C8-5E1E58EF1FC4)
 
 
 ## Tock and staffing
