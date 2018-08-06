@@ -37,11 +37,9 @@ NAVAIR HR requires the improvement of both the quality of the data they collect 
 
 
 ## Our approach 
-We will begin by experimenting with predictive analytics in the Fleet Readiness Center in Jacksonville, Florida. We then plan to apply learnings and innovatoins to all major Fleet Readiness Centers (three main centers exist).
+We will begin by experimenting with predictive analytics in the Fleet Readiness Center in Jacksonville, Florida. We then plan to apply learnings and innovations to all three major FRCs.
 
-In order to do this, we will work collaboratively to review available data to determine the current state of the information, explore the feasibility of modeling it, and develop a preliminary plan/recommendation for how to operationalize/build it out in order to meet NAVAIR’s goals.
-
-We will assist NAVAIR with modern data practices aimed at a comprehensive understanding of their HR data elements. This will expand their ability to model data and thus, predict attrition and hiring needs and retain necessary skill sets and forecast more efficiently. We will use the available data to determine the current state of the information, explore the feasibility of modeling it, and put a preliminary plan/recommendation for how to operationalize/build it out to help NAVAIR determine the best path forward. 
+For more on our approach, please [visit this page on our approach](https://github.com/18F/navair-pa/blob/master/approach.md).
 
 
 ## Planned deliverables
