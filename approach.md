@@ -8,9 +8,12 @@ In order to do this, we will:
 1. Work collaboratively to review available data to determine the current state of the information
 2. Think critically about the focus areas and skillsets NAVAIR seeks to hire and retain
 3. Select a specific data set where we can quickly experiment and learn
-4. Explore the feasibility of modeling it 
-5. If modeling proves to be feasible, develop a preliminary recommendation for a path forward to build it out in order to meet NAVAIR’s goals. If not, recommend other next steps
+4. Develop possible insights on how to standardize, structure, and model the data in order to understand skill capabilities and gaps 
+5. Explore the feasibility of modeling this
+6. If modeling proves to be feasible, develop a preliminary recommendation for a path forward to build it out in order to meet NAVAIR’s goals. If not, recommend other next steps
 
+
+A review of this data, 
 
 ## Areas of focus
 
