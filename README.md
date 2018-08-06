@@ -9,7 +9,7 @@ This repository contains documentation describing the Navy Naval Air Systems Com
 
 #### Overview
 
-Established in 1966 as the successor to the Navy’s Bureau of Naval Weapons, NAVAIR is headquartered in Patuxent River, Md., with military and civilian personnel stationed at eight locations across the continental United States and one site overseas.
+Established in 1966 as the successor to the Navy’s Bureau of Naval Weapons, NAVAIR is headquartered in Patuxent River, Maryland, with military and civilian personnel stationed at eight locations across the continental United States and one site overseas.
 
 #### Vision
 
