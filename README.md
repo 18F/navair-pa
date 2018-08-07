@@ -23,6 +23,14 @@ NAVAIR HR would like to improve the quality of the data they collect and manage 
 
 18F and NAVAIR began this path analysis engagement on July 30th, 2018, with a kickoff workshop at Naval Air Station Patuxent River on August 9th, 2018. This phase of work is expected to conclude no later than September 30th, 2018.
 
+## Vision for this work
+
+ - Improve forecasting of attrition, retention, and hiring based on personnel needs to keep NAVAIR staffed with the right people with the right skills at the right time
+ - Enhance predictability through organized and structured data, using predictive analytics and data modeling to forecast out a five-year plan
+ - Develop a local model that can be expanded and rolled over to other areas
+ - Develop NAVAIR capacity to grow and extend these practices over time
+
+
 ## Users and stakeholders
 
  - HR administrators and specialists managing hiring offers
