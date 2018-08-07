@@ -13,8 +13,6 @@ In order to do this, we will:
 6. If modeling proves to be feasible, develop a preliminary recommendation for a path forward to build it out in order to meet NAVAIR’s goals. If not, recommend other next steps
 
 
-A review of this data, 
-
 ## Areas of focus
 
 The following five sections represent prioritized areas related to NAVAIR that we would like to explore as we determine a system modernization path to better meet the needs of users during this engagement and beyond. 
