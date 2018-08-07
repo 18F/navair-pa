@@ -1,12 +1,16 @@
 # Approach
 
-To help NAVAIR move into the fields of predictive analytics and deep learning, our 18F strategists and engineers will assist NAVAIR with modern data practices aimed at a comprehensive understanding of their HR data elements. This will expand their ability to model data and thus, predict attrition and hiring needs. NAVAIR will then be able to retain necessary skill sets and forecast more efficiently, allowing them to main their fleet and subsequently keep NAVAIR planes in the air. 
+To help NAVAIR move into the fields of predictive analytics and deep learning in service of their goals, our 18F team will assist NAVAIR with modern data practices aimed at a comprehensive understanding of their HR data elements. This will expand their ability to model data and thus, predict attrition and hiring needs. 
+
+NAVAIR will then be able to retain necessary skill sets and forecast more efficiently, allowing them to main their fleet and subsequently keep NAVAIR planes in the air. 
 
 In order to do this, we will:
 1. Work collaboratively to review available data to determine the current state of the information
-2. Select a specific data set where we can quickly experiment and learn
-3. Explore the feasibility of modeling it
-4. Develop a preliminary plan/recommendation for how to operationalize/build it out in order to meet NAVAIR’s goals
+2. Think critically about the focus areas and skillsets NAVAIR seeks to hire and retain
+3. Select a specific data set where we can quickly experiment and learn
+4. Develop possible insights on how to standardize, structure, and model the data in order to understand skill capabilities and gaps 
+5. Explore the feasibility of modeling this
+6. Develop recommendations for a path forward to meet NAVAIR’s goals (e.g. operationalizing model if feasible, other next steps if not)
 
 
 ## Areas of focus

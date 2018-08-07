@@ -3,27 +3,23 @@
 ## Welcome!
 This repository contains documentation describing the Navy Naval Air Systems Command (NAVAIR) Path Analysis engagement. It is intended to be a place where project team members, stakeholders, and other interested parties can keep track of goals, context, and resources as we work together. 
 
-## History
-
-### NAVAIR
-
-#### Overview
+## NAVAIR
 
 Established in 1966 as the successor to the Navy’s Bureau of Naval Weapons, NAVAIR is headquartered in Patuxent River, Maryland, with military and civilian personnel stationed at eight locations across the continental United States and one site overseas.
 
-#### Vision
+### Vision
 
 NAVAIR develops, delivers, and sustains aircraft, weapons, and systems – on time, on cost, with proven capability and reliability – so they succeed in every mission and return safely home.
 
-#### Mission
+### Mission
 
 NAVAIR's mission is to provide full life-cycle support of naval aviation aircraft, weapons and systems operated by Sailors and Marines. This support includes research, design, development and systems engineering, acquisition, test and evaluation, training facilities and equipment, repair and modification, and in-service engineering and logistics support.
 
 [Visit this page for more on NAVAIR and their work](https://github.com/18F/navair-pa/blob/master/NAVAIR.md).
 
-### Engagement
+## Engagement
 
-NAVAIR HR requires the improvement of both the quality of the data they collect and manage and the use of predictive analytics. Aviation fleet readiness remains challenged with data collection and management resulting in potential reactive postures.  Organized and structured data with appropriate staffing will enhance required predictability.  NAVAIR HR desires a predictive model based on the data available to them allowing them to identify trends in the past and use the data to plan for the future.
+NAVAIR HR would like to improve the quality of the data they collect and manage through better data modeling to inform the use of predictive analytics. This will allow them to better identify past trends and better plan for the future, strengthening hiring and retention forecasting to better serve Navy and Marine fleets.
 
 18F and NAVAIR began this path analysis engagement on July 30th, 2018, with a kickoff workshop at Naval Air Station Patuxent River on August 9th, 2018. This phase of work is expected to conclude no later than September 30th, 2018.
 
