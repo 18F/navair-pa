@@ -10,7 +10,7 @@ In order to do this, we will:
 3. Select a specific data set where we can quickly experiment and learn
 4. Develop possible insights on how to standardize, structure, and model the data in order to understand skill capabilities and gaps 
 5. Explore the feasibility of modeling this
-6. If modeling proves to be feasible, develop a preliminary recommendation for a path forward to build it out in order to meet NAVAIR’s goals. If not, recommend other next steps
+6. Develop a preliminary recommendation for a path forward to meet NAVAIR’s goals (e.g. operationalizing model if feasible, other next steps if not)
 
 
 ## Areas of focus
