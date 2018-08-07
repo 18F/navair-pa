@@ -1,6 +1,8 @@
-# Problem
+# Problem and Approach
 
-The problem(s) of...
+## Problem
+
+The problem of...
  - Issues with data and data management (e.g. data gaps, lack of organized and structured data)
  - Difficulty applying past trends to future forecasting
  - Budget pressure (difficulties forecasting out-year budgets as one-year budgets are the norm)
@@ -35,7 +37,7 @@ Barriers and constraints that would need to be addressed include...
  - Aircraft have to fly – there is no Plan B
 
 
-# Approach
+## Approach
 
 To help NAVAIR move into the fields of predictive analytics and deep learning in service of their goals, our 18F team will assist NAVAIR with modern data practices aimed at a comprehensive understanding of their HR data elements. This will expand their ability to model data and thus, predict attrition and hiring needs. 
 
@@ -50,7 +52,7 @@ In order to do this, we will:
 6. Develop recommendations for a path forward to meet NAVAIR’s goals (e.g. operationalizing model if feasible, other next steps if not)
 
 
-## Areas of focus
+### Areas of focus
 
 The following five sections represent prioritized areas related to NAVAIR that we would like to explore as we determine a system modernization path to better meet the needs of users during this engagement and beyond. 
 Given our limited time, we almost certainly will not explore any section comprehensively; rather, we will select from these each week as we prioritize our work relative to our capacity.
@@ -61,6 +63,6 @@ Given our limited time, we almost certainly will not explore any section compreh
  - Findings and recommendations
 
 
-## First steps
+### First steps
 
 To improve the quality and utility of the data NAVAIR collects and manages, we will explore using predictive analytics in the Southeast Fleet Readiness Center in Jacksonville, Florida. Any learnings could then be expanded upon both in the Jacksonville location and to all three main FRCs.
