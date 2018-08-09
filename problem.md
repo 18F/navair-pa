@@ -14,7 +14,7 @@
  - Staffing estimations (which are often overestimated)
 
 **The impact of which is...**
- - Difficulty maintaining overall fleet readiness (32% of Marine Corps aviation fleet is in the non-flying status (half of Hornet fleet is sitting on the ground in non-flying status, 15% for Navy), meaning billions of dollars of assets sitting on the ground, which composes a significant national security issue
+ - Challenges maintaining overall fleet readiness 
  - Reactive postures (behind where the administration goes)
  - Spending a lot of money to recruit and retain people
 
