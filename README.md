@@ -81,9 +81,6 @@ For more details on these, please [visit this page on the problem and our approa
 
 ## Risks and mitigations
 
-**Risk:** We are not able to receive responses, decisions, support, resources, and assistance to unblock issues in a timely manner.  
-**Mitigation:** Identify and select primary and secondary points of contact who can provide this support quickly throughout the workday during the course of this engagement, with the secondary contact as a fallback mechanism when the primary is unavailable.
-
 **Risk:** We are unable to access data and systems that will be critical to understand the current state at NAVAIR HR, informing this work.  
 **Mitigation:** We press hard for access to data and systems we need and call out lack of access as a critical blocking issue. At the same time, we move forward to make the most use of time as possible.
 
