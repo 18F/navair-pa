@@ -87,9 +87,6 @@ For more details on these, please [visit this page on the problem and our approa
 **Risk:** Time is, by design, short. This engagement can go many ways as we define our eventual scope.  
 **Mitigation:** Team to commit to a path early on and dig in. Partner accepts that the work done will not be a comprehensive review of everything that is possible.
 
-**Risk:** If it takes time to identify/schedule research participants, this could reduce our potential impact.  
-**Mitigation:** We press hard for contacts/interviews but move forward with other work in the meantime.
-
 **Risk:** Important concerns go unaddressed until they swell into larger problems.  
 **Mitigation:** Surface obstacles and anxieties early so we can address them as they arise.
 
