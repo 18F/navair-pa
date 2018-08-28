@@ -4,9 +4,11 @@ This is a guide of commonly used acronyms that you may encounter in this engagem
 
 **AAP** Advance Analytics Package
 
-**ADCS** Automated Data Collection System -- Used in repair process to collect data on aircraft, engines and parts
+**ADCS** Automated Data Collection System - Used in repair process to collect data on aircraft, engines and parts
 
 **ASW** Anti-submarine warfare
+
+**BPR** Business process reengineering
 
 **CMC** Commandant of the Marine Corps - Highest ranking officer in the United States Marine Corps
 
@@ -18,21 +20,39 @@ This is a guide of commonly used acronyms that you may encounter in this engagem
 
 **DCPDS** Defense Civilian Personnel Data System
 
-**DIFMS** Defense Industrial Financial Management System
+**DIFMS** Defense Industrial Financial Management System - named financial system
 
-**EPP** Enterprise Project Planner -- Provides a "capacity view" of the system, including production planning and execution data for analysis
+**E&E** Examination and Evaluation
+
+**EPP** Enterprise Project Planner - Provides a "capacity view" of the system, including production planning and execution data for analysis
 
 **FRC** Fleet Readiness Centers
 
-**MRO** Maintenance, Repair, and Overhaul -- Often referred to as MRO Process
+**IBO** Integrated Business Office
 
-**NAS Pax River** Naval Air Station Patuxent River -- In St. Mary’s County, Maryland, is home to NAVAIR Headquarters, affiliated Program Executive Officers, and the Naval Air Warfare Center Aircraft Division
+**IPT** Integrated Product Team - work team on the floor, a group of artisans
+
+**LER** Labor & Employee Relations
+
+**MRO** Maintenance, Repair, and Overhaul - Often referred to as MRO Process
+
+**NAE** Naval Aviation Enterprise
+
+**NAS Pax River** Naval Air Station Patuxent River - In St. Mary’s County, Maryland, is home to NAVAIR Headquarters, affiliated Program Executive Officers, and the Naval Air Warfare Center Aircraft Division
 
 **NAVAIR** Naval Air Systems Command
 
 **NDMS** NAVAIR Depot Maintenance System
 
+**NDO** NAVAIR Digital Office
+
 **NMCI** Navy Marine Corps Intranet 
+
+**TYCOM** U.S. Navy type commands - perform vital administrative, personnel, and operational training functions for a "type" of weapon system (e.g., naval aviation, submarine warfare, surface warships) within a fleet organization.
+
+**WRAPS** Workload Requirements and Planning System
+
+**WMA** Workload Management Assessment
 
 -------
 
