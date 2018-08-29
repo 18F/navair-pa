@@ -8,7 +8,7 @@ This is a guide of commonly used acronyms that you may encounter in this engagem
 
 **ASW** Anti-submarine warfare
 
-**BPR** Business process reengineering
+**BPR** Business process re-engineering
 
 **CMC** Commandant of the Marine Corps - Highest ranking officer in the United States Marine Corps
 
