@@ -30,7 +30,6 @@ import matplotlib
 # This may not affect you, but if it does the command below resolves the backend.
 # Note that it MUST be run before any further imports.
 matplotlib.use('TkAgg')
-
 # You may now continue importing
 import matplotlib.pyplot as plt
 
@@ -149,7 +148,7 @@ pca_2 = PCA(2)
 # Fit the PCA model on the numeric columns from earlier.
 plot_columns = pca_2.fit_transform(good_columns)
 # Make a scatter plot of each game, shaded according to cluster assignment.
-plt.scatter(x=plot_columns[:,0], y=plot_columns[:,1], c=labels)
+# plt.scatter(x=plot_columns[:,0], y=plot_columns[:,1], c=labels)
 # This is not a particularly useful or interesting plot, so we'll skip showing it.
 #plt.show()
 
