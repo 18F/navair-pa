@@ -22,6 +22,8 @@ This is a guide of commonly used acronyms that you may encounter in this engagem
 
 **DIFMS** Defense Industrial Financial Management System - named financial system
 
+**DONIBIS** Department of Navy Industrial Budget Information System
+
 **E&E** Examination and Evaluation
 
 **EPP** Enterprise Project Planner - Provides a "capacity view" of the system, including production planning and execution data for analysis
@@ -29,6 +31,8 @@ This is a guide of commonly used acronyms that you may encounter in this engagem
 **FRC** Fleet Readiness Centers
 
 **IBO** Integrated Business Office
+
+**IMR** - Unscheduled maintenance events
 
 **IPT** Integrated Product Team - work team on the floor, a group of artisans
 
