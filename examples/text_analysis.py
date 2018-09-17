@@ -38,8 +38,7 @@ matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
 
 # Point to where the PDF you're reading from lives
-pd_file = '0059-18 Industrial Material Analyst.pdf'
-
+pd_file = '0061-18 Industrial Engineering Tech.pdf'
 pd_directory = 'pd_files/'
 
 pd_file_path = pd_directory + pd_file
